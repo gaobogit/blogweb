@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\bin\Debug\netcoreapp2.1\NetCoreWeb.IServices.deps.json
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\bin\Debug\netcoreapp2.1\NetCoreWeb.IServices.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\bin\Debug\netcoreapp2.1\NetCoreWeb.IServices.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\obj\Debug\netcoreapp2.1\NetCoreWeb.IServices.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\obj\Debug\netcoreapp2.1\NetCoreWeb.IServices.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\obj\Debug\netcoreapp2.1\NetCoreWeb.IServices.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\obj\Debug\netcoreapp2.1\NetCoreWeb.IServices.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\obj\Debug\netcoreapp2.1\NetCoreWeb.IServices.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\obj\Debug\netcoreapp2.1\NetCoreWeb.IServices.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IService\obj\Debug\netcoreapp2.1\NetCoreWeb.IServices.pdb

@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.Repository.deps.json
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.Repository.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.Repository.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.IRepository.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.IRepository.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\obj\Debug\netcoreapp2.1\NetCoreWeb.Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\obj\Debug\netcoreapp2.1\NetCoreWeb.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\obj\Debug\netcoreapp2.1\NetCoreWeb.Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\obj\Debug\netcoreapp2.1\NetCoreWeb.Repository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\obj\Debug\netcoreapp2.1\NetCoreWeb.Repository.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\obj\Debug\netcoreapp2.1\NetCoreWeb.Repository.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Repository\obj\Debug\netcoreapp2.1\NetCoreWeb.Repository.pdb

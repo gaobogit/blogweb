@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.deps.json
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\obj\Debug\netcoreapp2.1\NetCoreWeb.Model.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\obj\Debug\netcoreapp2.1\NetCoreWeb.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\obj\Debug\netcoreapp2.1\NetCoreWeb.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\obj\Debug\netcoreapp2.1\NetCoreWeb.Model.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\obj\Debug\netcoreapp2.1\NetCoreWeb.Model.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\obj\Debug\netcoreapp2.1\NetCoreWeb.Model.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.Model\obj\Debug\netcoreapp2.1\NetCoreWeb.Model.pdb

@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb1.Common\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.deps.json
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb1.Common\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb1.Common\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb1.Common\obj\Debug\netcoreapp2.1\NetCoreWeb.Common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb1.Common\obj\Debug\netcoreapp2.1\NetCoreWeb.Common.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb1.Common\obj\Debug\netcoreapp2.1\NetCoreWeb.Common.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb1.Common\obj\Debug\netcoreapp2.1\NetCoreWeb.Common.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb1.Common\obj\Debug\netcoreapp2.1\NetCoreWeb.Common.pdb

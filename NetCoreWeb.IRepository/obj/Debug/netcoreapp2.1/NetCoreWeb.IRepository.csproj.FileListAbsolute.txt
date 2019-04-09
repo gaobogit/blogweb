@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\bin\Debug\netcoreapp2.1\NetCoreWeb.IRepository.deps.json
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\bin\Debug\netcoreapp2.1\NetCoreWeb.IRepository.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\bin\Debug\netcoreapp2.1\NetCoreWeb.IRepository.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\bin\Debug\netcoreapp2.1\NetCoreWeb.Model.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\bin\Debug\netcoreapp2.1\NetCoreWeb.Common.pdb
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\obj\Debug\netcoreapp2.1\NetCoreWeb.IRepository.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\obj\Debug\netcoreapp2.1\NetCoreWeb.IRepository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\obj\Debug\netcoreapp2.1\NetCoreWeb.IRepository.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\obj\Debug\netcoreapp2.1\NetCoreWeb.IRepository.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\obj\Debug\netcoreapp2.1\NetCoreWeb.IRepository.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\obj\Debug\netcoreapp2.1\NetCoreWeb.IRepository.dll
+C:\Users\Administrator\Desktop\Blog.Core\NetCoreForWebApplication\NetCoreWeb.IRepository\obj\Debug\netcoreapp2.1\NetCoreWeb.IRepository.pdb
